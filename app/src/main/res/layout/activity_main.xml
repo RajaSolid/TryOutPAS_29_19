@@ -16,6 +16,7 @@
         android:layout_height="match_parent"
         android:visibility="gone" />
 
+
     <FrameLayout
         android:id="@+id/frame_layout"
         android:layout_above="@id/bottom_navigation"

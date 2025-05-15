@@ -5,6 +5,7 @@
     android:gravity="center"
     android:orientation="vertical">
 
+
     <TextView
         android:text="Home Page"
         android:textSize="24sp"
