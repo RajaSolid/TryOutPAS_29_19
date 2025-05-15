@@ -16,5 +16,3 @@ public class Teams {
     public String getStadium() { return stadium; }
     public String getBadgeUrl() { return badgeUrl; }
 }
-
-}
