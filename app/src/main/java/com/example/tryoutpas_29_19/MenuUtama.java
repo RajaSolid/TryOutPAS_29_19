@@ -35,5 +35,6 @@ public class MenuUtama extends AppCompatActivity {
             intent.putExtra("LEAGUE_NAME", "Spanish La Liga");
             startActivity(intent);
         });
+
     }
 }
