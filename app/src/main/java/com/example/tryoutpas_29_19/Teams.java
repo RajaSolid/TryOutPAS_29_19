@@ -17,4 +17,4 @@ public class Teams {
     public String getBadgeUrl() { return badgeUrl; }
 }
 
-}
+
